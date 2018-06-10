@@ -153,7 +153,7 @@ namespace Jatek
             {
                 new int[] { 1, 2, 0 }, // Hozzáadjuk a bejárat melletti területeket
                 new int[] { 2, 1, 1 }
-            }; // Létrehozun egy List-et a későbbiekben hozzáadandó "falaknak"
+            }; // Létrehozunk egy List-et a későbbiekben hozzáadandó "falaknak"
             while (falak.Count!= 0) // Amíg van valami a List-ben
             {
 
